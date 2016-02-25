@@ -169,6 +169,19 @@ Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[
 * [How does an interviewer define the difficulty level of a question?](http://www.quora.com/Programming-Interviews/How-does-an-interviewer-define-the-difficulty-level-of-a-question)
 
 
+## Open source and contribution
+
+How to start the journey with open source, contribution and why I should do it.
+
+Interviewers often ask about open source contribution, also it's great opportunity to develop your skills.
+
+* **Why I should do it ?** [[web][o_why_I_should]]
+* **14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star** [[web][o_14_ways]]
+
+[o_why_I_should]: http://www.makeuseof.com/tag/contribute-opensource-projects/
+[o_14_ways]: http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/
+
+
 ## Questions
 
 Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
@@ -211,6 +224,8 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * Gayle McDowell - **Cracking the Coding Interview (examples)** [[one][v_cci2]] [[two][v_cci3]]
 * Hangouts on Air: **Google Recruiters Share Interview Tips** [[technical][v_gt]] [[non-technical][v_gnt]]
 * Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]]
+* Moishe Lettvin - **What I Learned Doing 250 Interviews at Google ** [[Youtube][v_google_interview]]
+* **'How to Get a Job At the Big 4** - A Student's Guide' by Sean Lee [[Youtube][v_big_4]]
 
 [v_cci]: http://youtu.be/rEJzOhC5ZtQ
 [v_cci2]: http://youtu.be/aClxtDcdpsQ
@@ -219,6 +234,8 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 [v_gt]: http://youtu.be/qc1owf2-220
 [v_gnt]: http://youtu.be/DINxNbBOEoI
 [v_lsh1]: http://youtu.be/fIpliB-ton8
+[v_google_interview]: https://youtu.be/r8RxkpUvxK0
+[v_big_4]: https://youtu.be/YJZCUhxNCv8
 
 ## Similar GitHub repos
 
