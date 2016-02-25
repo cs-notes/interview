@@ -71,7 +71,7 @@ Please support the authors by buying the books.
 
 ## Coding
 
-* **Coderust** (great selection of problems) [[$10 app][c_cr]]
+* **Coderust** (great selection of problems) [[$20 app][c_cr]]
 * **Hacker Rank** [[web][c_hr]]
 * **Interview Cake** [[web][c_ic]]
 * **HackerEarth** [[web][c_he]]
