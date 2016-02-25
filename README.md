@@ -87,6 +87,7 @@ Please support the authors by buying the books.
 * **the matasano crypto challenges** [[web][c_cp]]
 * **Cracking Programming** [[web][c_crpb]]
 * **GeeksforGeeks** [[web][c_gfg]]
+* **InterviewBit** [[web][c_ib]]
 * more – **Free Programming Resources** [[web][c_fpr]]
 * more - **Web Resources and Tutorials That Don't Suck** [[web][c_p]]
 
@@ -108,6 +109,7 @@ Please support the authors by buying the books.
 [c_cp]: http://cryptopals.com/
 [c_crpb]: http://crackprogramming.blogspot.com/
 [c_gfg]: http://www.geeksforgeeks.org/
+[c_ib]: https://www.interviewbit.com/
 
 
 ## Guides
