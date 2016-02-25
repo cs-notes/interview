@@ -71,8 +71,6 @@ Please support the authors by buying the books.
 
 ## Coding
 
-Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
-
 * **Coderust** (great selection of problems) [[$10 app][c_cr]]
 * **Hacker Rank** [[web][c_hr]]
 * **Interview Cake** [[web][c_ic]]
@@ -101,8 +99,6 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 [c_itp]: http://www.infoarena.ro/training-path
 [c_p]: http://pineapple.io/
 [c_pe]: https://projecteuler.net/
-[c_tb]: http://www.talentbuddy.co/
-[c_tb_app]: https://itunes.apple.com/us/app/talentbuddy/id845593905
 [c_tct]: http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static
 [c-lc]: http://oj.leetcode.com/
 [c_cw]: http://www.codewars.com/
